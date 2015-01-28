@@ -1,3 +1,6 @@
 [submodule "com_lib"]
 	path = com_lib
 	url = /workspace/2015-01/20150127_lib
+[submodule "lib_1"]
+	path = lib_1
+	url = /workspace/2015-01/20150127_lib
